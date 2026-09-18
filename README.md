@@ -1,0 +1,36 @@
+## Hi, I'm Maddy Brown 👋
+
+I just finished a PhD in math and advanced data science at the University of Washington,
+and I run [@wnbadata](https://www.instagram.com/wnbadata), where I make short video
+explainers about women's basketball data and analytics.
+
+**I'm looking for data science work in basketball**, especially women's basketball.
+Most of what I do is play by play analysis in R, and then figuring out how to convey the analysis in 45 seconds with a story and charts.
+
+### Repos
+
+- **[wnba-analysis](https://github.com/madbro206/wnba-analysis)** — curated projects,
+  written up properly. Ridge regression on team stats, PageRank rankings, DPOY prediction.
+- **[wnbadata](https://github.com/madbro206/wnbadata)** — the working archive. 180+ scripts
+  since 2024, one per video, including
+  [the weirdest stat about every WNBA team](https://github.com/madbro206/wnbadata/tree/main/2026-9-3%20weirdest%20stat%20about%20every%20wnba%20team),
+  15 videos in 16 days.
+
+### Background
+
+- Data intern at **Sports Reference**, writing SQL against historical basketball data
+- **Women in Sports Data Fellow** with Philadelphia Phillies R&D
+- Mentee at the **MIT Sloan Sports Analytics Conference**
+- Paid content partner with the **WNBA**, explaining their AWS-powered shot quality
+  metric to fans
+- Created and taught **Math 380: Communicating Mathematics Through Sports Data** at UW,
+  as instructor of record
+
+R, Python, SQL. Bayesian inference, regression, clustering, and a lot of ggplot2.
+
+### Elsewhere
+
+[maddybrown.digital](http://www.maddybrown.digital/) ·
+[TikTok](https://www.tiktok.com/@wnbadata) ·
+[Instagram](https://www.instagram.com/wnbadata/) ·
+[LinkedIn](https://linkedin.com/in/brownmadeline)
