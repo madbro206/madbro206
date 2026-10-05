@@ -10,7 +10,8 @@ Most of what I do is play by play analysis in R, and then figuring out how to co
 ### Repos
 
 - **[wnba-analysis](https://github.com/madbro206/wnba-analysis)** — curated projects,
-  written up properly. Ridge regression on team stats, PageRank rankings, DPOY prediction.
+  written up properly. Three models for predicting the 2026 WNBA playoffs (Bradley-Terry,
+  Elo and XGBoost), what a steal is worth (ridge regression), and DPOY prediction.
 - **[wnbadata](https://github.com/madbro206/wnbadata)** — the working archive. 180+ scripts
   since 2024, one per video, including
   [the weirdest stat about every WNBA team](https://github.com/madbro206/wnbadata/tree/main/2026-9-3%20weirdest%20stat%20about%20every%20wnba%20team),
@@ -18,6 +19,7 @@ Most of what I do is play by play analysis in R, and then figuring out how to co
 
 ### Background
 
+- Analyst and developer at **[Her Hoop Stats](https://herhoopstats.com)**
 - Data intern at **Sports Reference**, writing SQL against historical basketball data
 - **Women in Sports Data Fellow** with Philadelphia Phillies R&D
 - Mentee at the **MIT Sloan Sports Analytics Conference**
@@ -26,7 +28,8 @@ Most of what I do is play by play analysis in R, and then figuring out how to co
 - Created and taught **Math 380: Communicating Mathematics Through Sports Data** at UW,
   as instructor of record
 
-R, Python, SQL. Bayesian inference, regression, clustering, and a lot of ggplot2.
+R, Python (Django), SQL (MySQL). Bayesian inference, regression, machine learning (XGBoost), clustering, and a
+lot of ggplot2.
 
 ### Elsewhere
 
