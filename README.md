@@ -19,8 +19,8 @@ Most of what I do is play by play analysis in R, and then figuring out how to co
 
 ### Background
 
-- Analyst and developer at **[Her Hoop Stats](https://herhoopstats.com)**
-- Data intern at **Sports Reference**, writing SQL against historical basketball data
+- Current analyst and developer at **[Her Hoop Stats](https://herhoopstats.com)**
+- Former data intern at **Sports Reference**, writing SQL against historical basketball data
 - **Women in Sports Data Fellow** with Philadelphia Phillies R&D
 - Mentee at the **MIT Sloan Sports Analytics Conference**
 - Paid content partner with the **WNBA**, explaining their AWS-powered shot quality
