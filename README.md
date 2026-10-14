@@ -7,6 +7,8 @@ explainers about women's basketball data and analytics.
 **I'm looking for data science work in basketball**, especially women's basketball.
 Most of what I do is play by play analysis in R, and then figuring out how to convey the analysis in 45 seconds with a story and charts.
 
+I am also open to creating paid content around basketball, sports analytics, and data science. Previously, I have worked with brands such as the WNBA, Apple TV, and Dunkman.
+
 ### Repos
 
 - **[wnba-analysis](https://github.com/madbro206/wnba-analysis)** — curated projects,
