@@ -29,10 +29,9 @@ I am also open to creating paid content around basketball, sports analytics, and
 - Created and taught **Math 380: Communicating Mathematics Through Sports Data** at UW,
   as instructor of record
 
-R, Python (Django), SQL (MySQL). Bayesian inference, regression, machine learning (XGBoost), clustering, and a
-lot of ggplot2.
+R, Python (Django), SQL (MySQL). Bayesian inference, regression, machine learning (XGBoost), clustering, lots of ggplot2 :)
 
-### Elsewhere
+### Maddy in other places
 
 [maddybrown.digital](http://www.maddybrown.digital/) ·
 [TikTok](https://www.tiktok.com/@wnbadata) ·
